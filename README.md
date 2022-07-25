@@ -1,2 +1,5 @@
-# frutaefruto
-Site feito através do curso de Front End da Alura utilizando o método BEM (Block, Element, Modifier) para organização dos blocos 
+# arquitetura-css
+First add site do curso
+curso de arquitetura da Alura.
+
+Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1

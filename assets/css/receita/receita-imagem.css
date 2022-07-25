@@ -1,0 +1,9 @@
+.receita__imagem {
+    height: 180px;
+    filter: opacity(95%) grayscale(40%);
+    transition: all .1s ease-in-out;
+}
+
+.receita__imagem:hover {
+    filter: opacity(100%) grayscale(0);
+}

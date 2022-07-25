@@ -1,0 +1,16 @@
+.receita__botao {
+    font-size: 0.8rem;
+    background: #8d0606;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 0.5rem;
+    transition: all .1s ease-in-out;
+    /*TRANSIÇÃO BOTOES*/
+}
+
+.receita__botao:hover {
+    background: #620404;
+    cursor: pointer;
+
+}
